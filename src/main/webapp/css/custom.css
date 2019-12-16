@@ -1,0 +1,43 @@
+.header {
+    height: 120px;
+    background-color: cadetblue;
+}
+.logo-container {
+    height: 120px;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.card-container {
+    margin-top: 10px;
+}
+.card-container > div {
+    margin-top: 10px;
+}
+.fixed-height {
+    max-height: 200px;
+}
+.hidden {
+    display: none;
+}
+.login-error {
+    width: 50%;
+    margin: auto;
+    margin-top: 15px;
+    text-align: center;
+}
+.actions-wrapper {
+    margin: auto;
+}
+.action-button {
+    width: 49%;
+    display: inline-block;
+}
+.action-button > button {
+    width: 100%;
+}
+.setting-buttons {
+    color: aliceblue;
+    float: right;
+    font-size: 20px;
+}
